@@ -1,6 +1,6 @@
 function main() {
     //Only change code below this line
-var myString = "FirstLine"\n\t"SecondLine\n"ThirdLine"
+var myString = 'FirstLine\n\tSecondLine\nThirdLine'
    
 return {
         myString
